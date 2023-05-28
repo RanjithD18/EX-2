@@ -1,6 +1,6 @@
 # EX-2 IMPLEMENTATION OF STOP AND WAIT PROTOCOL
 
-### DATE:08-03-2023
+### DATE:15-03-2023
 
 ## AIM :
 To write a python program to perform stop and wait protocol
