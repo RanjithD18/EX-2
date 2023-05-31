@@ -51,7 +51,10 @@ while True:
 
 
 ## OUTPUT :
-![](https://github.com/RanjithD18/EX-2/blob/main/Screenshot%20from%202023-05-17%2021-17-23.png)
+### client.py
+![](1.png)
+### server.py
+![](2.png)
 
 
 ## RESULT :
